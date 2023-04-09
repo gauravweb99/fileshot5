@@ -1,13 +1,18 @@
-## @Tentkotta_HDT_Vijaytv_bot
+## @good_frd_bot
 
 ## Render info
 
 Login mail- 
 ``` 
-llyrzydjrgul@bugfoo.com```
+xxsqft@bugfoo.com
+```
 Login pass- 
 ```
-llyrzydjrgul
+xxsqft123
+```
+
+```
+xxsqft1234
 ```
 
 ## Vps Cmd -----------
