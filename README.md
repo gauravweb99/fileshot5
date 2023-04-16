@@ -1,19 +1,7 @@
 ## @good_frd_bot
 
-## Render info
 
-Login mail- 
-``` 
-xxsqft@bugfoo.com
-```
-Login pass- 
-```
-xxsqft123
-```
-
-```
-xxsqft1234
-```
+## server heroku
 
 ## Vps Cmd -----------
 
@@ -31,8 +19,8 @@ python main.py
 ```
 ### Admin info and pay
 
-tm- @Smlovers_143
+tm- Sathish Sk
 
-next pay- 07-03-23
+next pay- 15/05/23
 
-fees- 150
+fees- 100
