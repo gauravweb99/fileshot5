@@ -1,7 +1,6 @@
 ## @good_frd_bot
 
-
-## server heroku
+## server render : hahuxtdyi@bugfoo.com
 
 ## Vps Cmd -----------
 
